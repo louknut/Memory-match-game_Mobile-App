@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MemoryMatch</string>
+    <string name="button1">1 Player Mode</string>
+    <string name="button2">2 Player Mode</string>
+    <string name="button3">High Score Board</string>
+    <string name="textView1">Select Mode</string>
+    <string name="button4">Easy</string>
+    <string name="button5">Hard</string>
+    <string name="textView2">Player1: 0</string>
+    <string name="textView3">Player2: 0</string>
+    <string name="chip1">1 Player</string>
+    <string name="chip2">2 Player</string>
+    <string name="button6">Back to menu</string>
+    <string name="flipE">Flip: 0</string>
+</resources>
